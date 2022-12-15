@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   template: `
     <h1>
       Welcome to {{title}}!!
+      Testing :) 
     </h1>
   `,
   styles: []

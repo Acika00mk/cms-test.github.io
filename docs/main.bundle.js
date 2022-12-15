@@ -35,7 +35,7 @@ var AppComponent = (function () {
 AppComponent = __decorate([
     Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */])({
         selector: 'app-root',
-        template: "\n    <h1>\n      Welcome to {{title}}!!\n    </h1>\n  ",
+        template: "\n    <h1>\n      Welcome to {{title}}!!\n      Testing :) \n    </h1>\n  ",
         styles: []
     })
 ], AppComponent);
